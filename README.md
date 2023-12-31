@@ -3,8 +3,7 @@ This repo was based on a fork from [a Netlify example template](https://github.c
 
 Want to learn more?
 - Hate reading, [here's a video](https://youtu.be/SknFflQVOys)!
-
-Love reading, [here's a blog post](https://www.netlify.app/blog/deploy-your-astro-project-fast/)
+- Love reading, [here's a blog post](https://www.netlify.app/blog/deploy-your-astro-project-fast/)
 
 [TODO](TODO) file shows my vague plans for improvement.
 
