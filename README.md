@@ -1,3 +1,4 @@
+This is the source code for [my travel website foolishtravels.com](https://foolishtravels.com)
 
 This repo was based on a fork from [a Netlify example template](https://github.com/netlify-templates/astro-quickstart).
 
