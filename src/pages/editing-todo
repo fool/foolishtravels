@@ -1,70 +1,54 @@
-more windmills in one place in oil-happy montana than I saw in all of canada.  But lots of solar in canada!
-
-"As the train unwinds all of my timezone traversals, I get to see a sped-up timelapse of geography and geology rewinding too, back across the ups and downs, plains and mountains, sunrises and sunsets"
-
-add more high-level context about early arrivals as I almost never biked into the later afternoon or evenings.  I should try that next time, since I have great lights!
-
-Didn't lose much...anything?...even the things I thought I lost like laptop bag ziploc closer were just in a bag.  might have lost gloves several times but never did.  Clothes were pretty closely guarded, did laundry and folded much more carefully knowing how much I needed every sock and shirt
-
-What did I send back? 
-
-What did I not use? 
-
-What wore out? 
-
-Gear change For next time? (Tent, cooler helmet, camera)
-
-Also somehow tie in the late connections via rail (Western) and road (Winnipeg and East?) (not sure what I meant there...)
+working through first-pass editing on the posts (current b00kmark - day2.astro)
+	- interpolating pictures and adding frontmatter to oldest posts
+	- normal copyediting
 
 
-photo album link: https://photos.app.goo.gl/UamjNh3oPdsWidFq7
+some deeper / non-day-specific thoughts / themes to consider incorporating:
 
-maybe take a look at "further reading" at the end of "Railway Nation"?  Esp Breton.
+	- there were more windmills in one place in oil-happy montana than I saw in all of canada.  But lots of solar in canada!
+	- add more high-level context about early arrivals as I almost never biked into the later afternoon or evenings.  I should try that next time, since I have great lights!
+	- Didn't lose much...anything?...even the things I thought I lost like laptop bag ziploc closer were just in a bag.  might have lost gloves several times but never did.  Clothes were pretty closely guarded, did laundry and folded much more carefully knowing how much I needed every sock and shirt
+	- What did I send back? / What did I not use? / What wore out? / Gear change for next time? (answers seem to be: Tent, cooler helmet, camera but also less clothes and emergency foods)
+	- takeaways around camping versus hotelling, but weight and heat and climbs vs lightness, too?  Maybe time to level up my bikepacking skills of not having too many clothes and other things?  Would like to travel more lightly in the future without not being able to camp, tho...
+	- Also somehow tie in the late connections via rail (Western) and road (Winnipeg and East?) (not sure what I meant there...)
+	- locale name changes - rat portage to kenora, fort william to thunder bay, new  westminster and others to vancouver, wawa, laggan to lake louise, etc.
+	- don't forget to try the plain poutine/bagels sometimes.  
+	- lean into local expertise.  Helped lots of times!  e.g. what restaurant to avoid in that town where I ate a jimmy dean sausage roll for breakfast at 7am exactly. (and the lady there who made sure I knew the parameters of breakfast in advance!)
+	- museums / history stories beyond the railroad (but also including it).  e.g. brewster company in banff/jasper
+	- sunsets and sunrises - just spots in a cycle notable for their color and depth.  A great sunset on last night camping helped seal the trip as a communing with nature and not just a bicycle ride.
+	- road shoulders
+ 	- fumbling in french.  je me souvient and how gatineau felt like vancouver and chatting with Joanna/Hillary in Montreal
+	- mosquito-fear almost always worse than mosquito-truth
+	- lack of flat tires / major mechanicals?
+	- warmshowers missed love connections
+	- considering speaking to questions from the pictures from the touring book I read on the cruise: https://photos.app.goo.gl/WyxyUTgSix9x1cP26
 
-takeaways around camping versus hotelling, but weight and heat and climbs vs lightness, too?  Maybe time to level up my bikepacking skills of not having too many clothes and other things?  Would like to travel more lightly in the future without not being able to camp, tho...
 
-"for the last month or so of my trip including the train back to the US through new england, I was basking in the beginnings of autumn as touches of red started to tinge the forests and fields"
+some snippets to interpolate:
 
-locale name changes - rat portage to kenora, fort william to thunder bay, new  westminster and others to vancouver, wawa, laggan to lake louise, etc.
+	- "As the train unwinds all of my timezone traversals, I get to see a sped-up timelapse of geography and geology rewinding too, back across the ups and downs, plains and mountains, sunrises and sunsets"
+	- "for the last month or so of my trip including the train back to the US through new england, I was basking in the beginnings of autumn as touches of red started to tinge the forests and fields"
 
-+(whatever is in the email in my inbox)
+
+tedious wrapup work in vague order of importance
+
+- updating to latest astro (started this but got hung up:  https://github.com/fool/new-foolishtravels.com)
+- creating single timelapse video and uploading to youtube
+- creating photo gallery of all pics but without dupes
+- changing all pictures in blog to link to larger versions if clicked (programatically)
+- tagging ridewithGPS routes / adding to a trip (part 1 & 2 maybe?)
+- putting maps/profile from strava in each post
+
+
+misc:
+
+	- high-level first-pass goodies photo album link: https://photos.app.goo.gl/UamjNh3oPdsWidFq7
+	- maybe take a look at "further reading" at the end of "Railway Nation"?  Esp Breton.
+
 
 additional reading section: 
-- linking shannon and marco's blog and better videos
-- bike route network link
 
+	- linking shannon and marco's blog and better videos (cf https://shannonandmarcotravel.wordpress.com/)
+	- bike route network link (?)
 
-themes:
-
-- don't forget to try the plain poutine/bagels sometimes.  
-
-- lean into local expertise.  Helped lots of times!  e.g. what restaurant to avoid in that town where I ate a jimmy dean sausage roll for breakfast at 7am exactly. (and the lady there who made sure I knew the parameters of breakfast in advance!)
-
-museums / history stories beyond the railroad (but also including it).  e.g. brewster company in banff/jasper
-
-- sunsets and sunrises - just spots in a cycle notable for their color and depth.  A great sunset on last night camping helped seal the trip as a communing with nature and not just a bicycle ride.
-
-- road shoulders
- 
-fumbling in french.  je me souvient and how gatineau felt like vancouver
-
-mosquito-fear almost always worse than mosquito-truth
-
-lack of flat tires / major mechanicals?
-
-warmshowers missed love connections
-
-route verte revisit soon
-
-next tours?  peninsulas and PEI and newfoundland?  or instead rupert / george / etc?
-
-canadian history
-
-questions from the pictures from the touring book I read on the cruise: https://photos.app.goo.gl/WyxyUTgSix9x1cP26
-
-tedious wrapup work:
-- tagging ridewithGPS routes / adding to a trip (part 1 & 2 maybe?)
-- creating single timelapse video and uploading to youtube
-- creating photo gallery
-- updating to latest astro
-- maybe putting maps/distance from strava in each post?  not so sure about that
+next tours?  peninsulas and PEI and newfoundland?  or instead rupert / george / etc?  route verte revisit soon!
