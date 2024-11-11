@@ -39,6 +39,7 @@ tedious wrapup work in vague order of importance
 - changing all pictures in blog to link to larger versions if clicked (programatically)
 - tagging ridewithGPS routes / adding to a trip (part 1 & 2 maybe?)
 - putting maps/profile from strava in each post
+- fixing links so they work (maybe just need to quote the URL's?  cf https://github.com/fool/foolishtravels/commit/8df10409815d1a40b283b2d754586b29fefe6f9f
 
 
 misc:
