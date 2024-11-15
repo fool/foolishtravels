@@ -2,7 +2,8 @@
 working through first-pass editing on the posts (current b00kmark - day20.astro)
 	- updating index.astro with a bookmark as to how far the editing goes
 	- ensuring that each entry links to the previous/last ones
-	- ensuring href URL's are quoted after day19
+	- ensuring href URL's are quoted / links to next entry work - after day29 
+	- adding many pictures to "day25through28"
 	- reviewing pictures to see if I can add more
 	- normal copyediting
 	- re-editing the "before day 0" entries too (and then moving that section to the top of index?)
